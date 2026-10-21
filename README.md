@@ -79,10 +79,13 @@ I build practical AI demos and learn in public.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cvcingcvc-code&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=cvcingcvc-code&hide_border=true&background_color=00000000" alt="GitHub streak" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvcingcvc-code&theme=github" alt="profile details" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvcingcvc-code&theme=github" alt="repos per language" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvcingcvc-code&theme=github" alt="productive time" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cvcingcvc-code&bg_color=00000000&hide_border=true&color=36BCF7&line=8A2BE2&point=36BCF7&area=true&area_color=8A2BE233" alt="Contribution graph" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=cvcingcvc-code&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub stats" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=cvcingcvc-code&hide_border=true&background_color=00000000" alt="GitHub streak" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvcingcvc-code&layout=compact&hide_border=true&bg_color=00000000" alt="top langs" />
 
 ### 🐍 贡献格子贪吃蛇
 
