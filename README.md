@@ -10,7 +10,7 @@
 
 I build practical AI demos and learn in public.
 
-[![Repos](https://img.shields.io/badge/公开仓库-27-3DDC84?logo=git&logoColor=white)](https://github.com/cvcingcvc-code?tab=repositories)
+[![Repos](https://img.shields.io/badge/公开仓库-29-3DDC84?logo=git&logoColor=white)](https://github.com/cvcingcvc-code?tab=repositories)
 [![Focus](https://img.shields.io/badge/方向-AI%20Agent%20·%20AIGC%20·%20自动化-8A2BE2?logo=openai&logoColor=white)](https://github.com/cvcingcvc-code)
 [![Location](https://img.shields.io/badge/座标-中国香港-F57D00)](https://github.com/cvcingcvc-code)
 [![Status](https://img.shields.io/badge/状态-Building%20in%20public-36BCF7?logo=rocket&logoColor=white)](https://github.com/cvcingcvc-code)
