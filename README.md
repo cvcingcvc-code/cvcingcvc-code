@@ -10,7 +10,7 @@
 
 I build practical AI demos and learn in public.
 
-[![Repos](https://img.shields.io/badge/公开仓库-12+-3DDC84?logo=git&logoColor=white)](https://github.com/cvcingcvc-code?tab=repositories)
+[![Repos](https://img.shields.io/badge/公开仓库-27-3DDC84?logo=git&logoColor=white)](https://github.com/cvcingcvc-code?tab=repositories)
 [![Focus](https://img.shields.io/badge/方向-AI%20Agent%20·%20AIGC%20·%20自动化-8A2BE2?logo=openai&logoColor=white)](https://github.com/cvcingcvc-code)
 [![Location](https://img.shields.io/badge/座标-中国香港-F57D00)](https://github.com/cvcingcvc-code)
 [![Status](https://img.shields.io/badge/状态-Building%20in%20public-36BCF7?logo=rocket&logoColor=white)](https://github.com/cvcingcvc-code)
@@ -28,6 +28,7 @@ I build practical AI demos and learn in public.
 | [![Gorgon Workbench](https://github-readme-stats.vercel.app/api/pin/?username=cvcingcvc-code&repo=cec&hide_border=true&bg_color=00000000)](https://github.com/cvcingcvc-code/cec) | [![Agent Growth Foundry](https://github-readme-stats.vercel.app/api/pin/?username=cvcingcvc-code&repo=agent-growth-foundry&hide_border=true&bg_color=00000000)](https://github.com/cvcingcvc-code/agent-growth-foundry) |
 | [![SlotShift · Monad Lab](https://github-readme-stats.vercel.app/api/pin/?username=cvcingcvc-code&repo=blitz&hide_border=true&bg_color=00000000)](https://github.com/cvcingcvc-code/blitz) | [![Sentinel 安全智能体](https://github-readme-stats.vercel.app/api/pin/?username=cvcingcvc-code&repo=jumping_candy&hide_border=true&bg_color=00000000)](https://github.com/cvcingcvc-code/jumping_candy) |
 | [![AI Video Director](https://github-readme-stats.vercel.app/api/pin/?username=cvcingcvc-code&repo=ai-video-directo&hide_border=true&bg_color=00000000)](https://github.com/cvcingcvc-code/ai-video-directo) | [![Emotion Content Studio](https://github-readme-stats.vercel.app/api/pin/?username=cvcingcvc-code&repo=emotion-content-studio&hide_border=true&bg_color=00000000)](https://github.com/cvcingcvc-code/emotion-content-studio) |
+| [![AI 店铺客服工作台](https://github-readme-stats.vercel.app/api/pin/?username=cvcingcvc-code&repo=sales-skill-ai&hide_border=true&bg_color=00000000)](https://github.com/cvcingcvc-code/sales-skill-ai) | [![Card Battle Game](https://github-readme-stats.vercel.app/api/pin/?username=cvcingcvc-code&repo=card-battle-game&hide_border=true&bg_color=00000000)](https://github.com/cvcingcvc-code/card-battle-game) |
 
 </div>
 
@@ -38,12 +39,13 @@ I build practical AI demos and learn in public.
 ### 🤖 AI Agent 与工作流
 - **[Gorgon Workbench (cec)](https://github.com/cvcingcvc-code/cec)** — 个人 AI 行动工作台：任务、日程、知识、研究与智能体协作，支持 Android（Capacitor）。
 - **[Agent Growth Foundry](https://github.com/cvcingcvc-code/agent-growth-foundry)** — AI 自成长产品工厂：多智能体协作、许可证初筛、数据准入、小模型训练与评测。
-- **[DeepSeek Harness 相关实践](https://github.com/cvcingcvc-code)** — 探索"一切皆插件"的智能体架构。
+- **[AI 店铺智能客服工作台](https://github.com/cvcingcvc-code/sales-skill-ai)** — 自托管商品咨询与售后客服：资料不足或投诉时转人工，保留销售话术训练能力。
+- **[DeepSeek Harness 相关实践](https://github.com/cvcingcvc-code/deepseek-harness)** — 探索"一切皆插件"的智能体架构。
 
 ### 🎨 AIGC 内容创作
 - **[AI Video Director](https://github.com/cvcingcvc-code/ai-video-directo)** — 把自然语言创意整理成分镜与视频模型（Kling / Veo / Sora）可用的提示词。
 - **[Emotion Content Studio](https://github.com/cvcingcvc-code/emotion-content-studio)** — 面向英语学习内容的小红书内容生成工作流。
-- **[销售神队友](https://github.com/cvcingcvc-code/salesmate-ai)** — 企业销售话术训练 AI：先被 AI 客户"虐"一百遍。
+- **[销售神队友](https://github.com/cvcingcvc-code/salesmate-ai)** — 企业销售话术训练 AI 的产品方案与需求文档。
 
 ### 🛡️ 安全与量化
 - **[Sentinel 网络安全智能体](https://github.com/cvcingcvc-code/jumping_candy)** — DeepSeek + LangGraph 流量日志分析：攻击检测 → 类型判定 → IP 溯源 → 安全报告。
@@ -52,7 +54,6 @@ I build practical AI demos and learn in public.
 
 ### 🎮 小玩意儿
 - **[Card Battle Game](https://github.com/cvcingcvc-code/card-battle-game)** — 浏览器卡牌对战原型 + 微信小程序。
-- **[Gorgon Demo MVP](https://github.com/cvcingcvc-code/geergong)** — "发现你的周末" 3 分钟可演示交互原型。
 - **[教育 AI 证据可靠性评估](https://github.com/cvcingcvc-code/math)** — 数学建模黑客松赛道一参赛作品。
 
 ---
